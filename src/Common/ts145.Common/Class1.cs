@@ -11,6 +11,7 @@ namespace ts145.Common
         public void Test()
         {
             var str = "test";
+            var str2 = "test2";
         }
     }
 }
