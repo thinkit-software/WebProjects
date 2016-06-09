@@ -8,5 +8,9 @@ namespace ts145.Common
 {
     public class Class1
     {
+        public void Test()
+        {
+            var str = "test";
+        }
     }
 }
