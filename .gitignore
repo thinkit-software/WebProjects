@@ -243,3 +243,5 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+src/Common/ts145.Common.EnterpriseLibrary.Tests/ConnectionStrings.config
+src/Common/ts145.Common.EnterpriseLibrary/ConnectionStrings.config
