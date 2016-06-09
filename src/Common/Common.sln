@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ts145.Common", "ts145.Commo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ts145.Common.EnterpriseLibrary", "ts145.Common.EnterpriseLibrary\ts145.Common.EnterpriseLibrary.csproj", "{E5B72A9D-23F6-4763-8AF1-201EC7EB7423}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ts145.Common.EnterpriseLibrary.Tests", "ts145.Common.EnterpriseLibrary.Tests\ts145.Common.EnterpriseLibrary.Tests.csproj", "{9AE9DA89-C927-4FAD-8496-59D60220B4A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{E5B72A9D-23F6-4763-8AF1-201EC7EB7423}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5B72A9D-23F6-4763-8AF1-201EC7EB7423}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5B72A9D-23F6-4763-8AF1-201EC7EB7423}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AE9DA89-C927-4FAD-8496-59D60220B4A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AE9DA89-C927-4FAD-8496-59D60220B4A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AE9DA89-C927-4FAD-8496-59D60220B4A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AE9DA89-C927-4FAD-8496-59D60220B4A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
